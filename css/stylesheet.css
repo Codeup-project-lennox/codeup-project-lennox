@@ -15,6 +15,10 @@ body {
     margin-right: 15px;
 }
 
+.navbar {
+    padding: 0px;
+}
+
 .mainText {
     padding-top: 35px;
     padding-bottom: 35px;
@@ -83,8 +87,12 @@ body {
     margin-bottom: 35px;
 }
 
-.marginBottom {
-    margin-bottom: 50px;
+.spaceAbove {
+    margin-top: 35px;
+}
+
+.border-top {
+    margin-top: 20px;
 }
 
 .pictureCircles {
