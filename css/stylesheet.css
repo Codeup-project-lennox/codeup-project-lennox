@@ -1,11 +1,12 @@
 @import url('https://fonts.googleapis.com/css2?family=Anton&display=swap');
-
+@import url('https://fonts.googleapis.com/css2?family=Abel&display=swap');
 * {
     background-color: #F0F0F0;
 }
 
 body {
     background-color: #F0F0F0;
+    font-family: 'Abel', sans-serif;
 }
 
 .logo {
@@ -101,4 +102,14 @@ body {
     height: 25px;
     width: 25px;
     background-color: #02AAA9;
+}
+
+.featuredLine {
+    display: flex;
+    flex-direction: row;
+}
+
+.boldFont {
+    font-family: 'Anton', sans-serif;
+
 }
